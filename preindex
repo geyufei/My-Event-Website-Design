@@ -1,0 +1,106 @@
+<!doctype html> 
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <title>Welcome to WellCommunity</title> 
+
+        <link rel="stylesheet" href="css/general_styles.css">
+
+        <!--Google Fonts-->
+
+    </head>
+
+    <header>
+
+
+    </header>
+
+    <body>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="activities.html">Activity</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="community.html">Community</a></li>
+                <!-- Add more navigation links as needed -->
+            </ul>
+            
+        </nav>
+
+        <div class="grid-container">
+            <div class="brand">WellCommunity</div> 
+            <div class="page-links">
+                    <button>Home</button> 
+                    <button>About Us</button> 
+                    <button>Activity</button>
+                    <button>Gallery</button>
+                    <button>Community</button>
+            </div> <!-- closes the page-links div --> 
+            <div class="main">
+                    <h1>Welcome to WellCommunity</h1> 
+
+                    <p>Your Gateway to Wellness and Community.</p>
+            
+                    <h2>Discover Wellness Events Near You</h2>
+                    
+                    <p>Welcome to WellCommunity, your go-to destination for free health and relaxation activities right in your neighborhood. Whether you're a resident of our center or a local in the area, we invite you to explore a world of well-being.</p>
+                    
+                    <h2>Join Us for:</h2>
+                
+                    <p>1. Yoga in the Park: Find your inner balance with our serene outdoor yoga sessions. Perfect for beginners and experienced yogis alike, these classes are a breath of fresh air.</p>
+                    
+                    <p>2. Nature Hiking Adventures: Embark on picturesque hiking trails that lead you through lush forests and scenic vistas. Breathe in the fresh air and connect with nature.</p>
+                    
+                    <p>3. Book Club Gatherings: Feed your mind and soul with our community book club. Engage in meaningful discussions and discover new literary treasures.</p>
+                    
+                    <p>4. Group Runs: Lace up your running shoes and join our friendly running group. Stay active while making new friends along the way.</p>
+                    
+                    <p>5. Mindful Meditation: Find inner peace and relaxation through guided meditation sessions. Unwind your thoughts and release stress.</p>
+                    
+                    <p>6. Healthy Cooking Workshops: Learn to prepare delicious and nutritious meals with our cooking workshops. Discover the joy of wholesome eating.</p>
+                    
+                    <p>Join us on a journey to prioritize your well-being. Connect with like-minded individuals, enjoy healthful activities, and enhance your quality of life. It's all right here, in your community.</p>
+                    
+                    <p>Ready to start your wellness journey? Explore our upcoming events and activities or become a part of our thriving wellness community today.</p>
+            
+                    <p>Your Gateway to Wellness and Community.</p>
+
+            
+                    <section class="discover">
+                        <h2>Discover a Healthier, Happier You</h2>
+                        <p>Join our community and explore a world of wellness activities, health resources, and like-minded individuals.</p>
+                        <a href="signup.html">Get Started</a> <!-- Link to your sign-up page -->
+                    </section>
+
+                    <section class="featured-activities">
+                        <h2>Featured Wellness Activities</h2>
+                        <!-- Add content about featured activities here -->
+                    </section>
+
+            </div> <!-- closes the main div --> 
+        </div> <!-- closes the grid-container div -->
+
+        <main>
+            <!--//I want a menu-button about submit
+            //I want a menu-button about login
+            //I want a menu-button about logout
+            //I want a menu-button about
+            <div class="menu-button">
+                <button type="button" id="menu-button">Menu</button>-->
+
+    
+
+        </main>
+
+        <script src="js/site_interaction.js"></script>
+    </body> 
+
+    <footer>
+
+
+
+    </footer>
+</html>
