@@ -195,7 +195,7 @@ textarea.w-select {
 }
 
 input.w-button {
-  -webkit-appearance: button;
+  appearance: button;
 }
 
 .w-inline-block {
